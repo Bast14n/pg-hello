@@ -20,3 +20,7 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function authorInfo(){
+		navigator.notification.alert("My name is Sebastian");
+}
